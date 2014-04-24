@@ -1,0 +1,19 @@
+{
+  "name": "ServiceBusDemos",
+  "version": "0.0.1",
+  "description": "Azure Service Bus Demos",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gtihub.com/shijuvar/azureservicebus-demos"
+  },
+  "keywords": [
+    "nodejs",
+    "azure"
+  ],
+  "author": "Shiju Varghese",
+  "license": "MIT"
+}
